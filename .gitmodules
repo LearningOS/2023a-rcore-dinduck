@@ -1,0 +1,3 @@
+[submodule "ci-user"]
+	path = ci-user
+	url = https://github.com/LearningOS/rCore-Tutorial-Checker-2023A.git
